@@ -23,6 +23,10 @@ app.use(express.urlencoded({
 app.use(cors('*'));
 
 // default entry point '/' of the server => go to http://localhost:8000 after executing npm start
-app.get('/', (req, res) => {
+app.get('/api/artists/:name', (req, res) => {
+    res.json({ message : 'Welcome on Express/Node Server'}).status(200);
+});
+
+app.get('/api/genres/:name', (req, res) => {
     res.json({ message : 'Welcome on Express/Node Server'}).status(200);
 });
