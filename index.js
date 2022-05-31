@@ -7,6 +7,9 @@ const data = require("./data/data.json");
 // use port 8000 to run server on localhost
 const port = 8000;
 
+//use axios
+const axios = require("axios");
+
 // initialize express in a variable named app
 const app = express();
 
@@ -25,6 +28,8 @@ app.get("/", (req, res) => {
   res.json({ message: "Welcome on Express/Node Server" }).status(200);
 });
 
+
+// ENTITY ITEM 
 // get all artists
 app.get("/api/items", (req, res) => {
   res.send(data).status(200);
@@ -103,8 +108,16 @@ app.get("/api/category/:name", (req, res) => {
   /* console.log(req.params.name); */
   res.json(item).status(200);
 });
+ 
+// ENTITY POST
+app.get('api/post', async (req, res) => {
+    const response = await axios.get('https://jsonplaceholder.typicode.com/posts');
+    res.json(response.data).status(200);
+});
 
 // log server start (check your terminal to see the message)
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
 });
+
+
