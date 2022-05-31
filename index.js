@@ -1,15 +1,14 @@
 // use micro framework express
 const express = require("express");
-
 // use a data file
 const data = require("./data/data.json");
-
-// use port 8000 to run server on localhost
-const port = 8000;
-
 //use axios
 const axios = require("axios");
-
+//use jsdom
+const jsdom = require("jsdom");
+const { JSDOM } = jsdom;
+// use port 8000 to run server on localhost
+const port = 8000;
 // initialize express in a variable named app
 const app = express();
 
@@ -80,9 +79,7 @@ app.patch("/api/items/:id", (req, res) => {
       !req.body.description ||
       !req.body.albums
     )
-      res
-        .send({ message: "Item successfully edited !", item: item })
-        .status(200);
+      res.send({ message: "Item successfully edited !", item: item }).status(200);
   } else res.send({ message: "Item not found" }).status(404);
 });
 
@@ -115,9 +112,41 @@ app.get('api/post', async (req, res) => {
     res.json(response.data).status(200);
 });
 
+
+// WEB SCRAPING FROM LAPTOP LINUX
+// https://laptopwithlinux.com/linux-laptops/
+// https://laptopwithlinux.com/mini-computers/
+// https://laptopwithlinux.com/accessories/
+app.get('/api/laptos', async (req, res) => {
+    const url = 'https://laptopwithlinux.com/linux-laptops/'; // je requete une url
+    jsdom.fromURL(url).then(dom => { // accès au doc html de la page 
+        const laptops = dom.window.document.getElementById('.us_grid_1').querySelectorAll('article'); // depuis la grid_1 on veut récupérer tous les éléments html article, on retrouve un tableau d'élément 
+        const results = []; // j'initialise un tableau vide de resultat dans lequel je vais ajouter les laptops restructurés 
+        
+         laptopsGrid.forEach(element => { // je vais boucler tous mes laptops 
+            const item = {}; // pour chacun des ses élément je vais reconstruire sa donnée, et instancier un objet vide
+            const title = element.querySelector('h2').textContent; // puis cette objet va prendre pour chaque attribut un title à chaque fois que je vais aller chercher dans mon h2 dans mon élément dome 
+            const image = element.querySelector('img').src;
+            const price = element.querySelector('bdi').textContent;
+            const infos = []; // instancier un tableau vide dans lequel je vais ajouter les infos 
+
+            const labelsInfos = Array.from(element.getElementByclassName('progress_text')); // recupérer tous les labels et les textinfos des informations de l'article en question
+            const textInfos = Array.from(element.getElementByclassName('progress_info')); //Array.from reconvertit la donnée en tableau
+
+            for (let i = 0; i < labelsInfos.length; i++) { // je boucle sur le nombre de label ou de textinfos  
+                item.infos.push({ 'label': labelsInfos[i].textContent, 'value': textInfos[i].textContent });
+            } 
+            results.push(item); // pour chaque label ou textinfos je vais aller pusher une nouvelle info dans mon item, cette nouvelle info est un nouveau objet qui aura un attribut label avec le textcontent du label et un attribut value avec le textcontent du textinfos, une fois que je sors de la boucle je push mon item, restructurer dans mon tableau de resultat
+        });
+        res.send(results).status(200); // en sortie de la boucle je renvoie le resultat à mon client
+    });
+});
+
+
+
+
 // log server start (check your terminal to see the message)
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
 });
-
 
