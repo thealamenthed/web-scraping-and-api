@@ -4,6 +4,8 @@ const express = require("express");
 const data = require("./data/data.json");
 //use axios
 const axios = require("axios");
+// use cors
+const cors = require("cors");
 //use jsdom
 const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
@@ -11,6 +13,8 @@ const { JSDOM } = jsdom;
 const port = 8000;
 // initialize express in a variable named app
 const app = express();
+// use cors to allow all origins
+app.use(cors("*"));
 
 // use express
 app.use(express.json());
