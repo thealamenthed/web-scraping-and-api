@@ -1,0 +1,290 @@
+[
+    {
+      "id": "1",
+      "name": "Usher",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/xtupsw1359229842.jpg",
+      "category": "R&B",
+      "album":["https://i.ebayimg.com/images/g/rkkAAOSwvjdZQaRX/s-l400.jpg"]
+    },
+    {
+      "id": "2",
+      "name": "Beyoncé",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/wouav91634257602.jpg",
+      "category": "R&B",
+      "album": ["https://i.pinimg.com/originals/f9/7a/c9/f97ac96fd1cb810ea4542fa5f56fe827.jpg"]
+    },
+    {
+      "id": "3",
+      "name": "Chris Brown",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/rysxxq1345151189.jpg",
+      "category": "R&B",
+      "album":["https://media.senscritique.com/media/000013026759/source_big/Royalty.jpg"]
+    },
+    {
+      "id": "4",
+      "name": "Rihanna",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/vpuxqp1550161410.jpg",
+      "category": "R&B",
+      "album":["https://static.fnac-static.com/multimedia/FR/Images_Produits/FR/fnac.com/Visual_Principal_340/5/9/5/0602537220595/tsp20121018111641/Unapologetic.jpg"]
+    },
+    {
+      "id":"5",
+      "name": "Justin Timberlake",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/rssxyu1342170695.jpg",
+      "category": "R&B",
+      "album":["https://i.discogs.com/oKHunc8uDzWEmyF2osxy85BUsLZu0qrc8h--GHlqDVc/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQ2/NTA3LTE1MTY0ODI5/MjktNTc2Ny5qcGVn.jpeg"]
+    },
+    {
+      "id":"6",
+      "name": "Ariana Grande",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/yy8zqo1636559141.jpg",
+      "category": "R&B",
+      "album":["https://i.skyrock.net/6736/72316736/pics/3311866900_1_3_DC9aXeja.png"]
+    },
+    {
+      "id": "7",
+      "name": "2Pac",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/9321dc1615076762.jpg",
+      "category": "Rap",
+      "album":["https://media.senscritique.com/media/000000195465/300/cant_c_me.png"]
+    },
+    {
+      "id": "8",
+      "name": "Iggy Azalea",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/vfih7w1641059793.jpg",
+      "category": "Rap",
+      "album":["https://m.media-amazon.com/images/I/81CdwhWvDFL._SL1500_.jpg"]
+    },
+    {
+      "id": "9",
+      "name": "The Notorious B.I.G",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/notorious-big-the-5001dfaea76fa.jpg",
+      "category": "Rap",
+      "album":["https://m.media-amazon.com/images/I/71SKglUax2L._SL1242_.jpg"]
+    },
+    {
+      "id": "10",
+      "name": "Nicki Minaj",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/vtyqwy1340631850.jpg",
+      "category": "Rap",
+      "album":["https://generations.fr/media/articles/13768.jpg"]
+    },
+    {
+      "id": "11",
+      "name": "Eminem",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/vifn4f1617650128.jpg",
+      "category": "Rap",
+      "album":["https://pbs.twimg.com/media/Et_LHZNXYAQw46Y.jpg"]
+    },
+    {
+      "id": "12",
+      "name": "Lil' Kim",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/uqqtsw1348094424.jpg",
+      "category": "Rap",
+      "album":["https://img.allformusic.fr/pochette/300/l/lil-kim/ms-goat.jpg"]
+    },
+    {
+      "id": "13",
+      "name": "Interpol",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/qryyqp1439801624.jpg",
+      "category": "Rock",
+      "album":["https://www.clashmusic.com/sites/default/files/styles/article_feature/public/field/image/INTERPOL.jpg?itok=SpgFrRhV"]
+    },
+    {
+      "id": "14",
+      "name": "Queen",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/srxwyp1347980615.jpg",
+      "category": "Rock",
+      "album":["https://static01.nicematin.com/media/npo/1440w/2020/04/image-bohemian-rhapsody.jpg"]
+    },
+    {
+      "id": "15",
+      "name": "Tina Turner",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/rxxyvt1364928498.jpg",
+      "category": "Rock",
+      "album":["https://www.the-world-of-tina.com/img/Tina-Album-Break-Every-Rule.jpg"]
+    },
+    {
+      "id": "16",
+      "name": "Evanescence",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/rsptvr1352123819.jpg",
+      "category": "Rock",
+      "album":["http://ekladata.com/d0fLHQj399611Shf9O_s3LVVknY.jpg"]
+    },
+    {
+      "id": "17",
+      "name": "The Pretty Reckless",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/pretty-reckless-the-4fc74acb527c4.jpg",
+      "category": "Rock",
+      "album":["https://m.media-amazon.com/images/I/51DDCYVDjqL._SX425_.jpg"]
+    },
+    {
+      "id": "18",
+      "name": "Jimi Hendrix",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/xuqsrw1385847758.jpg",
+      "category": "Rock",
+      "album":["https://vinylwriters.com/wp-content/uploads/2020/06/JImi-Hendrix-Experience-Are-You-experienced.jpeg"]
+    },
+    {
+      "id": "19",
+      "name": "Charley Pride",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/txtxwx1479212005.jpg",
+      "category": "Country",
+      "album":["https://img.allformusic.fr/pochette/300/c/charley-pride/the-country-way.jpg"]
+    },
+    {
+      "id": "20",
+      "name": "Kenny Rogers",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/xvwtty1341346099.jpg",
+      "category": "Country",
+      "album":["https://img.allformusic.fr/pochette/300/k/kenny-rogers/weve-got-tonight.jpg"]
+    },
+    {
+      "id": "21",
+      "name": "Carrie Underwood",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/rywtuq1340742525.jpg",
+      "category": "Country",
+      "album":["https://m.media-amazon.com/images/I/61e5UmOgCrL._SL1200_.jpg"]
+    },
+    {
+      "id": "22",
+      "name": "Chris Stapleton",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/vttuyr1431612725.jpg",
+      "category": "Country",
+      "album":["https://m.media-amazon.com/images/I/51auL6HXwsL.jpg"]
+    },
+    {
+      "id": "23",
+      "name": "Shania Twain",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/tqptws1340525612.jpg",
+      "category": "Country",
+      "album":["https://img.allformusic.fr/pochette/300/s/shania-twain/the-woman-in-me.jpg"]
+    },
+    {
+      "id": "24",
+      "name": "Darius Rucker",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/xyxstx1341347321.jpg",
+      "category": "Country",
+      "album":["https://images-eu.ssl-images-amazon.com/images/I/51DXfayXmTL._SY300_SX300_QL70_ML2_.jpg"]
+    },
+    {
+      "id": "25",
+      "name": "Burna Boy",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/yxypqs1591139017.jpg",
+      "category": "Afro",
+      "album":["https://static.fnac-static.com/multimedia/Images/FR/NR/65/1e/b0/11542117/1540-1/tsp20191115111226/African-Giant.jpg"]
+    },
+    {
+      "id": "26",
+      "name": "Yemi Alade",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/qxquws1428411943.jpg",
+      "category": "Afro",
+      "album":["https://img.allformusic.fr/pochette/300/y/yemi-alade/woman-of-steel.jpg"]
+    },
+    {
+      "id": "27",
+      "name": "WizKid",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/quwpqy1557099130.jpg",
+      "category": "Afro",
+      "album":["https://img.allformusic.fr/pochette/300/w/wizkid/made-in-lagos.jpg"]
+    },
+    {
+      "id": "28",
+      "name": "P-Square",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/xuyxvy1429998591.jpg",
+      "category": "Afro",
+      "album":["https://www.lacoccinelle.net/1183172-1.jpg?20191117"]
+    },
+    {
+      "id": "29",
+      "name": "Davido",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/qrwtqp1574463977.jpg",
+      "category": "Afro",
+      "album":["https://img.allformusic.fr/pochette/300/d/davido/a-good-time.jpg"]
+    },
+    {
+      "id": "30",
+      "name": "Koffi Olomidé",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/vtvqxu1588448403.jpg",
+      "category": "Afro",
+      "album":["https://img.allformusic.fr/pochette/300/k/koffi-olomide/golden-star.jpg"]
+    },
+    {
+      "id": "31",
+      "name": "Mickael Jackson",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/vyytqt1353880455.jpg",
+      "category": "Pop",
+      "album":["https://img.allformusic.fr/pochette/300/k/koffi-olomide/golden-star.jpg"]
+    },
+    {
+      "id": "32",
+      "name": "Aya Nakamura",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/vuttwy1571171044.jpg",
+      "category": "Pop",
+      "album":["https://static.fnac-static.com/multimedia/Images/FR/NR/bf/c7/a0/10536895/1540-1/tsp20181009141310/Album-2018.jpg"]
+    },
+    {
+      "id": "33",
+      "name": "Justin Bieber",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/rvutxq1494999969.jpg",
+      "category": "Pop",
+      "album":["https://img.allformusic.fr/pochette/300/j/justin-bieber/purpose.jpg"]
+    },
+    {
+      "id": "34",
+      "name": "Jennifer Lopez",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/yptwtx1531055298.jpg",
+      "category": "Pop",
+      "album":["http://www.musicfeelings.net/wp-content/uploads/2014/05/jloaka-e1399276917657.png"]
+    },
+    {
+      "id": "35",
+      "name": "BTS",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/satbvr1633793922.jpg",
+      "category": "Pop",
+      "album":["https://pm1.narvii.com/6750/cbc525e919ba80e9ab60158af1643b929059bfd3v2_hq.jpg"]
+    },
+    {
+      "id": "36",
+      "name": "Britney Spears",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/ypxywx1355352812.jpg",
+      "category": "Pop",
+      "album":["https://static1.ozap.com/articles/2/39/49/12/@/3968670-britney-spears-femme-fatale-diapo-1.jpg"]
+    },
+    { "id":"37",
+      "name": "Mylène Farmer",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/wxyyvx1561040055.jpg",
+      "category": "Variété française",
+      "album":["https://www.mylene.net/uploads/tweets/54053.jpg"]
+    },
+    { "id":"38",
+      "name": "Johnny Hallyday",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/vqqvxx1382434158.jpg",
+      "category": "Variété française",
+      "album":["https://i0.wp.com/www.johnny-legend.fr/wp-content/uploads/2011/02/couverture-jamais-seul-johnny-halyday.jpg"]
+    },
+    { "id":"39",
+      "name": "Vitaa",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/wryvxq1366528824.jpg",
+      "category": "Variété française",
+      "album":["http://www.idolesmag.com/images/photos2017/7923-vitaa-pochette-album-j4m.jpg"]
+    },
+    { "id":"40",
+      "name": "Slimane",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/ruuswt1483006109.jpg",
+      "category": "Variété française",
+      "album":["https://m.media-amazon.com/images/I/81YEwJisb2L._SL1400_.jpg"]
+    },
+    { "id":"41",
+      "name": "Céline Dion",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/uusrqs1359062161.jpg",
+      "category": "Variété française",
+      "album":["https://m.media-amazon.com/images/I/71ANBFlpISL._SL1500_.jpg"]
+    },
+    { "id":"42",
+      "name": "Booba",
+      "image": "https://www.theaudiodb.com/images/media/artist/thumb/booba-5205539e64314.jpg",
+      "category": "Variété française",
+      "album":["https://kulturemania.files.wordpress.com/2018/02/booba-jc3a9rc3a9my-potel.jpg"]
+    }
+  ]
