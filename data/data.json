@@ -2,90 +2,381 @@
   {
     "id": "1",
     "name": "Usher",
-    "image": "https://i2.wp.com/www.thetrentonline.com/wp-content/uploads/2015/01/Usher-Raymond-as.jpg?fit=1600%2C1143&ssl=1",
-    "category": "rnb",
-    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "album": ["Confessions", "8701", "Scream"]
+    "image": "https://i.ebayimg.com/images/g/rkkAAOSwvjdZQaRX/s-l400.jpg",
+    "category": "RnB",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/xtupsw1359229842.jpg",
+    "topAlbum": true,
+    "spotify": "https://open.spotify.com/embed/artist/23zg3TcAtWQy7J6upgbUnj"
   },
-
   {
     "id": "2",
-    "name": "Usher",
-    "image": "url",
-    "category": "rap",
-    "description": "azerty",
-    "album": ["a", "b", "c"]
-  },
+    "name": "Beyoncé",
+    "image": "https://images.rapgenius.com/b1ae92f8612286cdddfc6cf034f719b9.1000x1000x1.jpg",
+    "category": "RnB",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/wouav91634257602.jpg",
+    "topAlbum": true,
+    "spotify": "https://open.spotify.com/embed/artist/6vWDO969PvNqNYHIOW5v0m"
 
+  },
   {
     "id": "3",
-    "name": "Music of the Spheres",
-    "image": "url",
-    "category": "rap",
-    "description": "azerty",
-    "album": ["a", "b", "c"]
+    "name": "Chris Brown",
+    "image": "https://media.senscritique.com/media/000013026759/source_big/Royalty.jpg",
+    "category": "RnB",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/rysxxq1345151189.jpg",
+    "topAlbum": false,
+    "spotify": "https://open.spotify.com/embed/artist/7bXgB6jMjp9ATFy66eO08Z"
   },
-
   {
     "id": "4",
-    "name": "Music of the Spheres",
-    "image": "url",
-    "category": "rap",
-    "description": "azerty",
-    "album": ["a", "b", "c"]
+    "name": "Rihanna",
+    "image": "https://static.fnac-static.com/multimedia/FR/Images_Produits/FR/fnac.com/Visual_Principal_340/5/9/5/0602537220595/tsp20121018111641/Unapologetic.jpg",
+    "category": "RnB",
+    "album": "https://pyxis.nymag.com/v1/imgs/75b/c1e/bc4521dacb05602db193459fb08f9c8673-01-rihanna.rsquare.w700.jpg",
+    "topAlbum": true,
+    "spotify": "https://open.spotify.com/embed/artist/5pKCCKE2ajJHZ9KAiaK11H"
   },
-
   {
     "id": "5",
-    "name": "Music of the Spheres",
-    "image": "url",
-    "category": "rap",
-    "description": "azerty",
-    "album": ["a", "b", "c"]
+    "name": "Justin Timberlake",
+    "image": "https://i.discogs.com/oKHunc8uDzWEmyF2osxy85BUsLZu0qrc8h--GHlqDVc/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQ2/NTA3LTE1MTY0ODI5/MjktNTc2Ny5qcGVn.jpeg",
+    "category": "RnB",
+    "album": "https://www.bravo.de/assets/field/image/on_justin_timberlake.jpg",
+    "topAlbum": true,
+    "spotify": "https://open.spotify.com/embed/artist/31TPClRtHm23RisEBtV3X7"
   },
-
   {
     "id": "6",
-    "name": "Music of the Spheres",
-    "image": "url",
-    "category": "rap",
-    "description": "azerty",
-    "album": ["a", "b", "c"]
+    "name": "Ariana Grande",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/69416b50-5aaa-490d-8da7-682b35321b11/dcvhbo4-a26197ea-b88f-4c51-92dd-ecdc0ad40f14.jpg/v1/fill/w_1280,h_1280,q_75,strp/ariana_grande__sweetener__album_cover_1_by_areumdawokpop_dcvhbo4-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xMjgwIiwicGF0aCI6IlwvZlwvNjk0MTZiNTAtNWFhYS00OTBkLThkYTctNjgyYjM1MzIxYjExXC9kY3ZoYm80LWEyNjE5N2VhLWI4OGYtNGM1MS05MmRkLWVjZGMwYWQ0MGYxNC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.oAr5Gc2OLFISLveViX53eL7sQZTLkRzIhH8PiLQO18M",
+    "category": "RnB",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/yy8zqo1636559141.jpg",
+    "topAlbum": true,
+    "spotify": "https://open.spotify.com/embed/artist/66CXWjxzNUsdJxJ2JdwvnR"
   },
-
   {
     "id": "7",
-    "name": "Music of the Spheres",
-    "image": "url",
-    "category": "rap",
-    "description": "azerty",
-    "album": ["a", "b", "c"]
+    "name": "2Pac",
+    "image": "https://media.senscritique.com/media/000000195465/300/cant_c_me.png",
+    "category": "Rap",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/9321dc1615076762.jpg",
+    "topAlbum": false,
+    "spotify": "https://open.spotify.com/embed/artist/1ZwdS5xdxEREPySFridCfh"
   },
-
   {
     "id": "8",
-    "name": "Music of the Spheres",
-    "image": "url",
-    "category": "rap",
-    "description": "azerty",
-    "album": ["a", "b", "c"]
+    "name": "Iggy Azalea",
+    "image": "https://m.media-amazon.com/images/I/81CdwhWvDFL._SL1500_.jpg",
+    "category": "Rap",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/vfih7w1641059793.jpg",
+    "topAlbum": true,
+    "spotify": "https://open.spotify.com/embed/artist/5yG7ZAZafVaAlMTeBybKAL"
   },
-
   {
     "id": "9",
-    "name": "Music of the Spheres",
-    "image": "url",
-    "category": "rap",
-    "description": "azerty",
-    "album": ["a", "b", "c"]
+    "name": "The Notorious B.I.G",
+    "image": "https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fexternal-content.duckduckgo.com%2Fiu%2F%3Fu%3Dhttps%253A%252F%252Fmir-s3-cdn-cf.behance.net%252Fproject_modules%252Fmax_1200%252F53b13719552971.562dc58b772fb.png%26f%3D1%26nofb%3D1",
+    "category": "Rap",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/notorious-big-the-5001dfaea76fa.jpg",
+    "topAlbum": false,
+    "spotify": "https://open.spotify.com/embed/artist/5me0Irg2ANcsgc93uaYrpb"
   },
-
   {
     "id": "10",
-    "name": "Music of the Spheres",
-    "image": "url",
-    "category": "rap",
-    "description": "azerty",
-    "album": ["a", "b", "c"]
+    "name": "Nicki Minaj",
+    "image": "https://generations.fr/media/articles/13768.jpg",
+    "category": "Rap",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/vtyqwy1340631850.jpg",
+    "topAlbum": true,
+    "spotify": "https://open.spotify.com/embed/artist/0hCNtLu0JehylgoiP8L4Gh"
+  },
+  {
+    "id": "11",
+    "name": "Eminem",
+    "image": "https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F813Is33yOzL._SL1400_.jpg",
+    "category": "Rap",
+    "album": "https://i.ebayimg.com/images/i/221017578687-0-1/s-l1000.jpg",
+    "topAlbum": true,
+    "spotify": "https://open.spotify.com/embed/artist/7dGJo4pcD2V6oG8kP0tJRR"
+  },
+  {
+    "id": "12",
+    "name": "Lil' Kim",
+    "image": "https://img.allformusic.fr/pochette/300/l/lil-kim/ms-goat.jpg",
+    "category": "Rap",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/uqqtsw1348094424.jpg",
+    "topAlbum": true,
+    "spotify": "https://open.spotify.com/embed/artist/5tth2a3v0sWwV1C7bApBdX"
+  },
+  {
+    "id": "13",
+    "name": "Interpol",
+    "image": "https://www.clashmusic.com/sites/default/files/styles/article_feature/public/field/image/INTERPOL.jpg?itok=SpgFrRhV",
+    "category": "Rock",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/qryyqp1439801624.jpg",
+    "topAlbum": true,
+    "spotify": "https://open.spotify.com/embed/artist/3WaJSfKnzc65VDgmj2zU8B"
+  },
+  {
+    "id": "14",
+    "name": "Queen",
+    "image": "https://static01.nicematin.com/media/npo/1440w/2020/04/image-bohemian-rhapsody.jpg",
+    "category": "Rock",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/srxwyp1347980615.jpg",
+    "topAlbum": false,
+    "spotify": "https://open.spotify.com/embed/artist/1dfeR4HaWDbWqFHLkxsg1d"
+  },
+  {
+    "id": "15",
+    "name": "Tina Turner",
+    "image": "https://www.the-world-of-tina.com/img/Tina-Album-Break-Every-Rule.jpg",
+    "category": "Rock",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/rxxyvt1364928498.jpg",
+    "topAlbum": false,
+    "spotify": "https://open.spotify.com/embed/artist/1zuJe6b1roixEKMOtyrEak"
+
+  },
+  {
+    "id": "16",
+    "name": "Evanescence",
+    "image": "http://ekladata.com/d0fLHQj399611Shf9O_s3LVVknY.jpg",
+    "category": "Rock",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/rsptvr1352123819.jpg",
+    "topAlbum": false,
+    "spotify": "https://open.spotify.com/embed/artist/5nGIFgo0shDenQYSE0Sn7c"
+  },
+  {
+    "id": "17",
+    "name": "The Pretty Reckless",
+    "image": "https://m.media-amazon.com/images/I/51DDCYVDjqL._SX425_.jpg",
+    "category": "Rock",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/pretty-reckless-the-4fc74acb527c4.jpg",
+    "topAlbum": false,
+    "spotify": "https://open.spotify.com/embed/artist/2R57sY41L9XvGPiIgHOaYq"
+  },
+  {
+    "id": "18",
+    "name": "Jimi Hendrix",
+    "image": "https://vinylwriters.com/wp-content/uploads/2020/06/JImi-Hendrix-Experience-Are-You-experienced.jpeg",
+    "category": "Rock",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/xuqsrw1385847758.jpg",
+    "topAlbum": false,
+    "spotify": "https://open.spotify.com/embed/artist/776Uo845nYHJpNaStv1Ds4"
+  },
+  {
+    "id": "19",
+    "name": "Charley Pride",
+    "image": "https://img.allformusic.fr/pochette/300/c/charley-pride/the-country-way.jpg",
+    "category": "Country",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/txtxwx1479212005.jpg",
+    "topAlbum": false,
+    "spotify": "https://open.spotify.com/embed/artist/69Fk1s1lzINOKqoSWjjEiE"
+  },
+  {
+    "id": "20",
+    "name": "Kenny Rogers",
+    "image": "https://img.allformusic.fr/pochette/300/k/kenny-rogers/weve-got-tonight.jpg",
+    "category": "Country",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/xvwtty1341346099.jpg",
+    "topAlbum": false,
+    "spotify": "https://open.spotify.com/embed/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+  },
+  {
+    "id": "21",
+    "name": "Carrie Underwood",
+    "image": "https://m.media-amazon.com/images/I/61e5UmOgCrL._SL1200_.jpg",
+    "category": "Country",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/rywtuq1340742525.jpg",
+    "topAlbum": false,
+    "spotify": "https://open.spotify.com/embed/artist/4xFUf1FHVy696Q1JQZMTRj"
+  },
+  {
+    "id": "22",
+    "name": "Chris Stapleton",
+    "image": "https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fstatic.musictoday.com%2Fstore%2Fbands%2F3940%2Fproduct_large%2FXZCDCS01.jpg",
+    "category": "Country",
+    "album": "https://images.pristineauction.com/119/1191674/main_1555001475-Chris-Stapleton-Signed-Traveler-LP-Cover-JSA-COA-PristineAuction.com.jpg",
+    "topAlbum": false,
+    "spotify": "https://open.spotify.com/embed/artist/4YLtscXsxbVgi031ovDDdh"
+  },
+  {
+    "id": "23",
+    "name": "Shania Twain",
+    "image": "https://img.allformusic.fr/pochette/300/s/shania-twain/the-woman-in-me.jpg",
+    "category": "Country",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/tqptws1340525612.jpg",
+    "topAlbum": false,
+    "spotify":"https://open.spotify.com/embed/artist/5e4Dhzv426EvQe3aDb64jL"
+  },
+  {
+    "id": "24",
+    "name": "Darius Rucker",
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/51DXfayXmTL._SY300_SX300_QL70_ML2_.jpg",
+    "category": "Country",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/xyxstx1341347321.jpg",
+    "topAlbum": false,
+    "spotify":"https://open.spotify.com/embed/artist/7FY5V3XMwlNBPitEjXowHQ"
+  },
+  {
+    "id": "25",
+    "name": "Burna Boy",
+    "image": "https://static.fnac-static.com/multimedia/Images/FR/NR/65/1e/b0/11542117/1540-1/tsp20191115111226/African-Giant.jpg",
+    "category": "Afro",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/yxypqs1591139017.jpg",
+    "topAlbum": false,
+    "spotify":"https://open.spotify.com/embed/artist/3wcj11K77LjEY1PkEazffa"
+  },
+  {
+    "id": "26",
+    "name": "Yemi Alade",
+    "image": "https://img.allformusic.fr/pochette/300/y/yemi-alade/woman-of-steel.jpg",
+    "category": "Afro",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/qxquws1428411943.jpg",
+    "topAlbum": false,
+    "spotify":"https://open.spotify.com/embed/artist/7fKO99ryLDo8VocdtVvwZW"
+  },
+  {
+    "id": "27",
+    "name": "WizKid",
+    "image": "https://img.allformusic.fr/pochette/300/w/wizkid/made-in-lagos.jpg",
+    "category": "Afro",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/quwpqy1557099130.jpg",
+    "topAlbum": false,
+    "spotify":"https://open.spotify.com/embed/artist/3tVQdUvClmAT7URs9V3rsp"
+  },
+  {
+    "id": "28",
+    "name": "P-Square",
+    "image": "https://www.lacoccinelle.net/1183172-1.jpg?20191117",
+    "category": "Afro",
+    "album": "https://notjustok.com/wp-content/uploads/2013/03/p-square.jpg",
+    "topAlbum": false,
+    "spotify":"https://open.spotify.com/embed/artist/42IUN9kTPdUdI1kre6L7Wk"
+  },
+  {
+    "id": "29",
+    "name": "Davido",
+    "image": "https://img.allformusic.fr/pochette/300/d/davido/a-good-time.jpg",
+    "category": "Afro",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/qrwtqp1574463977.jpg",
+    "topAlbum": false,
+    "spotify":"https://open.spotify.com/embed/artist/0Y3agQaa6g2r0YmHPOO9rh"
+  },
+  {
+    "id": "30",
+    "name": "Koffi Olomidé",
+    "image": "https://img.allformusic.fr/pochette/300/k/koffi-olomide/golden-star.jpg",
+    "category": "Afro",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/vtvqxu1588448403.jpg",
+    "topAlbum": false,
+    "spotify":"https://open.spotify.com/embed/artist/7e14Bh8oZXNRmZxjhhTARb"
+  },
+  {
+    "id": "31",
+    "name": "Mickael Jackson",
+    "image": "https://i.redd.it/80rt2zjgjfx41.jpg",
+    "category": "Pop",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/vyytqt1353880455.jpg",
+    "topAlbum": false,
+    "spotify":"https://open.spotify.com/embed/artist/3fMbdgg4jU18AjLCKBhRSm"
+  },
+  {
+    "id": "32",
+    "name": "Aya Nakamura",
+    "image": "https://static.fnac-static.com/multimedia/Images/FR/NR/bf/c7/a0/10536895/1540-1/tsp20181009141310/Album-2018.jpg",
+    "category": "Pop",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/vuttwy1571171044.jpg",
+    "topAlbum": false,
+    "spotify":"https://open.spotify.com/embed/artist/7IlRNXHjoOCgEAWN5qYksg"
+  },
+  {
+    "id": "33",
+    "name": "Justin Bieber",
+    "image": "https://img.allformusic.fr/pochette/300/j/justin-bieber/purpose.jpg",
+    "category": "Pop",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/rvutxq1494999969.jpg",
+    "topAlbum": false,
+    "spotify":"https://open.spotify.com/embed/artist/1uNFoZAHBGtllmzznpCI3s"
+  },
+  {
+    "id": "34",
+    "name": "Jennifer Lopez",
+    "image": "http://www.musicfeelings.net/wp-content/uploads/2014/05/jloaka-e1399276917657.png",
+    "category": "Pop",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/yptwtx1531055298.jpg",
+    "topAlbum": false,
+    "spotify":"https://open.spotify.com/embed/artist/2DlGxzQSjYe5N6G9nkYghR"
+  },
+  {
+    "id": "35",
+    "name": "BTS (방탄소년단)",
+    "image": "https://i.pinimg.com/originals/1b/e1/4a/1be14a46893df1b78198e32f4da11adc.jpg",
+    "category": "Pop",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/satbvr1633793922.jpg",
+    "topAlbum": false,
+    "spotify":"https://open.spotify.com/embed/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+  },
+  {
+    "id": "36",
+    "name": "Britney Spears",
+    "image": "https://static1.ozap.com/articles/2/39/49/12/@/3968670-britney-spears-femme-fatale-diapo-1.jpg",
+    "category": "Pop",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/ypxywx1355352812.jpg",
+    "topAlbum": false,
+    "spotify":"https://open.spotify.com/embed/artist/26dSoYclwsYLMAKD3tpOr4"
+  },
+  {
+    "id": "37",
+    "name": "Mylène Farmer",
+    "image": "https://www.mylene.net/uploads/tweets/54053.jpg",
+    "category": "variete",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/wxyyvx1561040055.jpg",
+    "topAlbum": false,
+    "spotify":"https://open.spotify.com/embed/artist/0e04xgVBPU6mE2QkSHlufD"
+  },
+  {
+    "id": "38",
+    "name": "Johnny Hallyday",
+    "image": "https://i0.wp.com/www.johnny-legend.fr/wp-content/uploads/2011/02/couverture-jamais-seul-johnny-halyday.jpg",
+    "category": "variete",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/vqqvxx1382434158.jpg",
+    "topAlbum": false,
+    "spotify":"https://open.spotify.com/embed/artist/2HALYSe657tNJ1iKVXP2xA"
+  },
+  {
+    "id": "39",
+    "name": "Vitaa",
+    "image": "http://www.idolesmag.com/images/photos2017/7923-vitaa-pochette-album-j4m.jpg",
+    "category": "variete",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/wryvxq1366528824.jpg",
+    "topAlbum": false,
+    "spotify":"https://open.spotify.com/embed/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+  },
+  {
+    "id": "40",
+    "name": "Slimane",
+    "image": "https://m.media-amazon.com/images/I/81YEwJisb2L._SL1400_.jpg",
+    "category": "variete",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/ruuswt1483006109.jpg",
+    "topAlbum": false,
+    "spotify":"https://open.spotify.com/embed/artist/4OV6uYSnHxSYkjDYuBVBUz"
+  },
+  {
+    "id": "41",
+    "name": "Céline Dion",
+    "image": "https://m.media-amazon.com/images/I/71ANBFlpISL._SL1500_.jpg",
+    "category": "variete",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/uusrqs1359062161.jpg",
+    "topAlbum": false,
+    "spotify":"https://open.spotify.com/embed/artist/4S9EykWXhStSc15wEx8QFK"
+  },
+  {
+    "id": "42",
+    "name": "Booba",
+    "image": "https://kulturemania.files.wordpress.com/2018/02/booba-jc3a9rc3a9my-potel.jpg",
+    "category": "variete",
+    "album": "https://www.theaudiodb.com/images/media/artist/thumb/booba-5205539e64314.jpg",
+    "topAlbum": false,
+    "spotify":"https://open.spotify.com/embed/artist/58wXmynHaAWI5hwlPZP3qL"
   }
 ]

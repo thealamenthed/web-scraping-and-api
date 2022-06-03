@@ -31,8 +31,7 @@ app.get("/", (req, res) => {
   res.json({ message: "Welcome on Express/Node Server" }).status(200);
 });
 
-
-// ENTITY ITEM 
+// ENTITY ITEM
 // get all artists
 app.get("/api/items", (req, res) => {
   res.send(data).status(200);
@@ -40,7 +39,7 @@ app.get("/api/items", (req, res) => {
 
 // get one artist by id
 app.get("/api/items/:id", (req, res) => {
-  const id = parseInt(req.params.id);
+  const id = req.params.id;
   const item = data.find((element) => element.id === id);
   if (item) res.send(item).status(200);
   else res.send({ message: "Item not found" }).status(404);
@@ -83,7 +82,9 @@ app.patch("/api/items/:id", (req, res) => {
       !req.body.description ||
       !req.body.albums
     )
-      res.send({ message: "Item successfully edited !", item: item }).status(200);
+      res
+        .send({ message: "Item successfully edited !", item: item })
+        .status(200);
   } else res.send({ message: "Item not found" }).status(404);
 });
 
@@ -97,6 +98,12 @@ app.delete("/api/items/:id", (req, res) => {
   } else res.send({ message: "Item not found" }).status(404);
 });
 
+// all album
+app.get("/api/albums", (req, res) => {
+  const items = data;
+  res.json(items).status(200);
+});
+
 // get one artist by name
 app.get("/api/author/:name", (req, res) => {
   const item = data.find((data) => data.name === req.params.name);
@@ -105,12 +112,19 @@ app.get("/api/author/:name", (req, res) => {
 
 // get one artist by category
 app.get("/api/category/:name", (req, res) => {
-  const item = data.filter((data) => data.category === req.params.name);
+  const items = data.filter((data) => data.category === req.params.name);
   /* console.log(req.params.name); */
-  res.json(item).status(200);
+  res.json(items).status(200);
 });
- 
-// ENTITY POST
+
+// Top 10 artists
+app.get("/api/top10", (req, res) => {
+  const items = data.filter((data) => data.topAlbum === true);
+  /* console.log(req.params.name); */
+  res.json(items).status(200);
+});
+
+/* // ENTITY POST
 app.get('api/post', async (req, res) => {
     const response = await axios.get('https://jsonplaceholder.typicode.com/posts');
     res.json(response.data).status(200);
@@ -146,11 +160,9 @@ app.get('/api/laptos', async (req, res) => {
     });
 });
 
-
-
+ */
 
 // log server start (check your terminal to see the message)
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
 });
-
